@@ -1,5 +1,6 @@
 /*
 	Prophunt
+    Author: Sadman
 	Objective: 	Find props and hunt them
 	Map ends:	When one team reaches the score limit, or time limit is reached
 	Respawning:	No wait / Near teammates
@@ -1404,3 +1405,4 @@ addBotClients()
 		}
 	}
 }
+
